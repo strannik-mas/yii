@@ -1,0 +1,850 @@
+127.0.0.1 - - [30/Mar/2016:22:45:52 +0300] "GET / HTTP/1.1" 200 951
+127.0.0.1 - - [30/Mar/2016:22:45:52 +0300] "GET /icons/blank.gif HTTP/1.1" 200 148
+127.0.0.1 - - [30/Mar/2016:22:45:52 +0300] "GET /icons/folder.gif HTTP/1.1" 200 225
+127.0.0.1 - - [30/Mar/2016:22:45:52 +0300] "GET /favicon.ico HTTP/1.1" 404 292
+127.0.0.1 - - [30/Mar/2016:22:45:52 +0300] "GET /favicon.ico HTTP/1.1" 404 292
+127.0.0.1 - - [30/Mar/2016:22:46:27 +0300] "GET / HTTP/1.1" 200 951
+127.0.0.1 - - [30/Mar/2016:22:49:30 +0300] "GET / HTTP/1.1" 403 285
+127.0.0.1 - - [30/Mar/2016:22:57:24 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:22:57:24 +0300] "GET /icons/unknown.gif HTTP/1.1" 200 245
+127.0.0.1 - - [30/Mar/2016:22:57:24 +0300] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:22:57:24 +0300] "GET /icons/folder.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:22:57:27 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 200 4802
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 200 95786
+127.0.0.1 - - [30/Mar/2016:22:57:28 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+127.0.0.1 - - [30/Mar/2016:22:57:32 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+127.0.0.1 - - [30/Mar/2016:22:57:34 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+127.0.0.1 - - [30/Mar/2016:22:57:34 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 200 95786
+127.0.0.1 - - [30/Mar/2016:22:57:34 +0300] "GET /index.php/site/captcha?v=56fc2fae96925 HTTP/1.1" 200 2713
+127.0.0.1 - - [30/Mar/2016:22:57:35 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [30/Mar/2016:22:57:35 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:22:57:35 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 200 14657
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /index.php/post/index HTTP/1.1" 200 4987
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 200 4802
+127.0.0.1 - - [30/Mar/2016:22:57:37 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+127.0.0.1 - - [30/Mar/2016:23:08:28 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:09:02 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:09:02 +0300] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:09:02 +0300] "GET /icons/folder.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:09:02 +0300] "GET /icons/unknown.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:09:11 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:10:08 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:10:12 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:11:27 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:11:40 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:11:40 +0300] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:11:40 +0300] "GET /icons/folder.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:11:40 +0300] "GET /icons/unknown.gif HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:11:51 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:13:44 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:16:55 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:16:55 +0300] "GET /icons/blank.gif HTTP/1.1" 200 148
+127.0.0.1 - - [30/Mar/2016:23:16:55 +0300] "GET /icons/folder.gif HTTP/1.1" 200 225
+127.0.0.1 - - [30/Mar/2016:23:16:55 +0300] "GET /icons/unknown.gif HTTP/1.1" 200 245
+127.0.0.1 - - [30/Mar/2016:23:16:55 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 200 95786
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 200 4802
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+127.0.0.1 - - [30/Mar/2016:23:16:59 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+127.0.0.1 - - [30/Mar/2016:23:17:19 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+127.0.0.1 - - [30/Mar/2016:23:17:19 +0300] "GET /index.php/site/captcha?v=56fc344fb96e7 HTTP/1.1" 200 3091
+127.0.0.1 - - [30/Mar/2016:23:17:27 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [30/Mar/2016:23:17:27 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 200 14657
+127.0.0.1 - - [30/Mar/2016:23:17:31 +0300] "GET /index.php/post/index HTTP/1.1" 200 4987
+127.0.0.1 - - [30/Mar/2016:23:19:23 +0300] "GET / HTTP/1.1" 200 2237
+127.0.0.1 - - [30/Mar/2016:23:19:25 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [30/Mar/2016:23:19:26 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:19:26 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:19:26 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:19:26 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:19:26 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:19:26 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:28 +0300] "GET / HTTP/1.1" 200 2014
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:33 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:45 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [30/Mar/2016:23:27:45 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/Mar/2016:23:27:52 +0300] "GET /site/login HTTP/1.1" 200 3854
+127.0.0.1 - - [31/Mar/2016:00:56:43 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+127.0.0.1 - - [31/Mar/2016:00:56:44 +0300] "GET /index.php/post/index HTTP/1.1" 200 4987
+127.0.0.1 - - [31/Mar/2016:00:56:44 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:44 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:44 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:44 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:44 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:45 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:50 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [31/Mar/2016:00:56:50 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:00:56:51 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+127.0.0.1 - - [31/Mar/2016:00:56:52 +0300] "GET /index.php/site/captcha?v=56fc4ba3f1ba7 HTTP/1.1" 200 2584
+127.0.0.1 - - [31/Mar/2016:00:56:53 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+127.0.0.1 - - [31/Mar/2016:00:56:54 +0300] "GET /index.php/post/index HTTP/1.1" 200 4987
+127.0.0.1 - - [31/Mar/2016:01:08:36 +0300] "GET /test HTTP/1.1" 200 13
+127.0.0.1 - - [31/Mar/2016:11:15:20 +0300] "GET / HTTP/1.1" 200 2014
+127.0.0.1 - - [31/Mar/2016:11:15:20 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [31/Mar/2016:11:15:20 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [31/Mar/2016:12:44:56 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [31/Mar/2016:12:44:56 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [31/Mar/2016:12:45:16 +0300] "GET / HTTP/1.1" 200 2014
+127.0.0.1 - - [31/Mar/2016:12:45:16 +0300] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:45:16 +0300] "GET /icons/folder.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:45:16 +0300] "GET /icons/unknown.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:03 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [31/Mar/2016:12:46:04 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:04 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:04 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:05 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:05 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:04 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:12:46:20 +0300] "GET / HTTP/1.1" 200 2014
+127.0.0.1 - - [31/Mar/2016:12:46:32 +0300] "GET / HTTP/1.1" 200 2014
+127.0.0.1 - - [31/Mar/2016:13:09:56 +0300] "GET /index.php HTTP/1.1" 200 4976
+127.0.0.1 - - [31/Mar/2016:13:09:59 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [31/Mar/2016:13:10:00 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:10:01 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+127.0.0.1 - - [31/Mar/2016:13:10:01 +0300] "GET /index.php/site/captcha?v=56fcf7797777c HTTP/1.1" 200 3129
+127.0.0.1 - - [31/Mar/2016:13:10:02 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+127.0.0.1 - - [31/Mar/2016:13:13:21 +0300] "GET /test HTTP/1.1" 500 -
+127.0.0.1 - - [31/Mar/2016:13:14:10 +0300] "GET /test HTTP/1.1" 500 -
+127.0.0.1 - - [31/Mar/2016:13:14:48 +0300] "GET /test HTTP/1.1" 200 1578
+127.0.0.1 - - [31/Mar/2016:13:14:48 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:14:48 +0300] "GET /css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:14:48 +0300] "GET /css/form.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:14:48 +0300] "GET /css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:14:48 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:17:05 +0300] "GET /test HTTP/1.1" 200 20
+127.0.0.1 - - [31/Mar/2016:13:20:16 +0300] "GET /test HTTP/1.1" 200 20
+127.0.0.1 - - [31/Mar/2016:13:34:19 +0300] "GET /gii HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:13:34:19 +0300] "GET /index.php/gii/default/login HTTP/1.1" 200 2253
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 200 1284
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 200 8285
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 200 10855
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 200 6303
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 200 8310
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 200 2526
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 200 14731
+127.0.0.1 - - [31/Mar/2016:13:34:20 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 200 7207
+127.0.0.1 - - [31/Mar/2016:13:34:23 +0300] "POST /index.php/gii/default/login HTTP/1.1" 200 2336
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 200 10855
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 200 1284
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 200 8310
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 200 6303
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 200 8285
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 200 14731
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 200 2526
+127.0.0.1 - - [31/Mar/2016:13:34:24 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 200 7207
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /gii HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /index.php/gii/default/login HTTP/1.1" 200 2253
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:45 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "POST /index.php/gii/default/login HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /index.php/gii/default/index HTTP/1.1" 200 2535
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:34:49 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:43 +0300] "GET /index.php/gii/controller/index HTTP/1.1" 200 5316
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:35:44 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "POST /index.php/gii/controller/index HTTP/1.1" 200 6666
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:19 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:37:48 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox.png HTTP/1.1" 200 14353
+127.0.0.1 - - [31/Mar/2016:13:37:48 +0300] "POST /index.php/gii/controller/code/id/0 HTTP/1.1" 200 3058
+127.0.0.1 - - [31/Mar/2016:13:37:48 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox-y.png HTTP/1.1" 200 128
+127.0.0.1 - - [31/Mar/2016:13:37:48 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox-x.png HTTP/1.1" 200 159
+127.0.0.1 - - [31/Mar/2016:13:38:08 +0300] "POST /index.php/gii/controller/code/id/1 HTTP/1.1" 200 1697
+127.0.0.1 - - [31/Mar/2016:13:38:23 +0300] "POST /index.php/gii/controller/index HTTP/1.1" 200 5719
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:13:38:24 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:15:48:58 +0300] "GET /test2 HTTP/1.1" 200 1799
+127.0.0.1 - - [31/Mar/2016:16:03:09 +0300] "GET /test2 HTTP/1.1" 200 1828
+127.0.0.1 - - [31/Mar/2016:16:03:10 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:03:10 +0300] "GET /css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:03:10 +0300] "GET /css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:03:10 +0300] "GET /css/form.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:03:10 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:03:38 +0300] "GET /test2 HTTP/1.1" 200 29
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /gii HTTP/1.1" 200 2535
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:21 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:05:24 +0300] "GET /index.php/gii/crud/index HTTP/1.1" 200 5925
+127.0.0.1 - - [31/Mar/2016:16:40:47 +0300] "GET /index.php/gii/model/index HTTP/1.1" 200 9553
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 200 30021
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 200 239564
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:40:48 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png HTTP/1.1" 200 208
+127.0.0.1 - - [31/Mar/2016:16:41:16 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 200 262
+127.0.0.1 - - [31/Mar/2016:16:41:40 +0300] "POST /index.php/gii/model/index HTTP/1.1" 200 10356
+127.0.0.1 - - [31/Mar/2016:16:41:44 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:41:44 +0300] "POST /index.php/gii/model/code/id/0 HTTP/1.1" 200 12637
+127.0.0.1 - - [31/Mar/2016:16:41:45 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox-x.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:41:45 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox-y.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:45:27 +0300] "POST /index.php/gii/model/index HTTP/1.1" 200 9845
+127.0.0.1 - - [31/Mar/2016:16:46:43 +0300] "GET /index.php/gii/crud/index HTTP/1.1" 200 5925
+127.0.0.1 - - [31/Mar/2016:16:46:58 +0300] "POST /index.php/gii/crud/index HTTP/1.1" 200 10511
+127.0.0.1 - - [31/Mar/2016:16:47:39 +0300] "POST /index.php/gii/crud/index HTTP/1.1" 200 6558
+127.0.0.1 - - [31/Mar/2016:16:59:54 +0300] "GET /news HTTP/1.1" 200 3309
+127.0.0.1 - - [31/Mar/2016:16:59:54 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:59:54 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:59:54 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:16:59:54 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:21:01 +0300] "GET /news/admin HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:17:21:01 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [31/Mar/2016:17:21:01 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:21:02 +0300] "POST /index.php/site/login HTTP/1.1" 200 109
+127.0.0.1 - - [31/Mar/2016:17:21:10 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+127.0.0.1 - - [31/Mar/2016:17:21:18 +0300] "POST /index.php/site/login HTTP/1.1" 200 3922
+127.0.0.1 - - [31/Mar/2016:17:21:18 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+127.0.0.1 - - [31/Mar/2016:17:22:11 +0300] "GET /news/admin HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:17:22:11 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [31/Mar/2016:17:22:12 +0300] "POST /index.php/site/login HTTP/1.1" 200 109
+127.0.0.1 - - [31/Mar/2016:17:22:29 +0300] "GET /news/admin HTTP/1.1" 200 6173
+127.0.0.1 - - [31/Mar/2016:17:22:30 +0300] "GET /assets/e247d51c/gridview/styles.css HTTP/1.1" 200 1606
+127.0.0.1 - - [31/Mar/2016:17:22:30 +0300] "GET /assets/e247d51c/gridview/jquery.yiigridview.js HTTP/1.1" 200 17530
+127.0.0.1 - - [31/Mar/2016:17:22:30 +0300] "GET /assets/e247d51c/gridview/bg.gif HTTP/1.1" 200 243
+127.0.0.1 - - [31/Mar/2016:17:23:36 +0300] "GET /news/create HTTP/1.1" 200 3244
+127.0.0.1 - - [31/Mar/2016:17:26:20 +0300] "GET /news/create HTTP/1.1" 200 3123
+127.0.0.1 - - [31/Mar/2016:17:26:20 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:26:20 +0300] "GET /css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:26:20 +0300] "GET /css/form.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:26:20 +0300] "GET /css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:26:20 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:28:37 +0300] "POST /news/create HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:17:28:37 +0300] "GET /index.php/news/view?id=1 HTTP/1.1" 200 2933
+127.0.0.1 - - [31/Mar/2016:17:28:37 +0300] "GET /assets/e247d51c/detailview/styles.css HTTP/1.1" 200 508
+127.0.0.1 - - [31/Mar/2016:17:40:44 +0300] "GET /index.php/news/admin HTTP/1.1" 200 6706
+127.0.0.1 - - [31/Mar/2016:17:40:44 +0300] "GET /assets/e247d51c/gridview/update.png HTTP/1.1" 200 713
+127.0.0.1 - - [31/Mar/2016:17:40:44 +0300] "GET /assets/e247d51c/gridview/delete.png HTTP/1.1" 200 715
+127.0.0.1 - - [31/Mar/2016:17:40:44 +0300] "GET /assets/e247d51c/gridview/view.png HTTP/1.1" 200 803
+127.0.0.1 - - [31/Mar/2016:17:41:03 +0300] "GET /index.php/news/update?id=1 HTTP/1.1" 200 3262
+127.0.0.1 - - [31/Mar/2016:17:41:11 +0300] "POST /index.php/news/update?id=1 HTTP/1.1" 302 -
+127.0.0.1 - - [31/Mar/2016:17:41:11 +0300] "GET /index.php/news/view?id=1 HTTP/1.1" 200 2935
+127.0.0.1 - - [31/Mar/2016:17:41:31 +0300] "GET /index.php/news/update?id=1 HTTP/1.1" 200 3264
+127.0.0.1 - - [31/Mar/2016:17:41:33 +0300] "GET /index.php/news/admin HTTP/1.1" 200 6708
+127.0.0.1 - - [31/Mar/2016:17:41:37 +0300] "GET /assets/e247d51c/gridview/loading.gif HTTP/1.1" 200 1849
+127.0.0.1 - - [31/Mar/2016:17:41:37 +0300] "POST /index.php/news/delete?ajax=news-grid&id=1 HTTP/1.1" 200 -
+127.0.0.1 - - [31/Mar/2016:17:41:37 +0300] "GET /index.php/news/admin?ajax=news-grid HTTP/1.1" 200 6274
+127.0.0.1 - - [31/Mar/2016:17:51:55 +0300] "GET /test HTTP/1.1" 200 287
+127.0.0.1 - - [31/Mar/2016:17:52:11 +0300] "GET /test HTTP/1.1" 200 78
+127.0.0.1 - - [31/Mar/2016:17:52:47 +0300] "GET /test HTTP/1.1" 500 -
+127.0.0.1 - - [31/Mar/2016:17:52:49 +0300] "GET /test HTTP/1.1" 500 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /test HTTP/1.1" 200 2040
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /css/form.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:00 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:01 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png HTTP/1.1" 200 280
+127.0.0.1 - - [31/Mar/2016:17:53:01 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png HTTP/1.1" 200 335
+127.0.0.1 - - [31/Mar/2016:17:53:01 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:17:53:01 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 200 262
+127.0.0.1 - - [31/Mar/2016:17:53:01 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-icons_222222_256x240.png HTTP/1.1" 200 6922
+127.0.0.1 - - [31/Mar/2016:17:53:02 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:44 +0300] "GET /index.php/gii/form/index HTTP/1.1" 200 5711
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:00:45 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:04:22 +0300] "POST /index.php/gii/form/index HTTP/1.1" 200 6546
+127.0.0.1 - - [31/Mar/2016:18:04:24 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:04:24 +0300] "POST /index.php/gii/form/code/id/0 HTTP/1.1" 200 8292
+127.0.0.1 - - [31/Mar/2016:18:04:25 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox-x.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:04:25 +0300] "GET /assets/e1e0cbc3/js/fancybox/fancybox-y.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:04:52 +0300] "POST /index.php/gii/form/index HTTP/1.1" 200 8935
+127.0.0.1 - - [31/Mar/2016:18:15:59 +0300] "GET /testnews HTTP/1.1" 200 2258
+127.0.0.1 - - [31/Mar/2016:18:16:14 +0300] "POST /testnews HTTP/1.1" 200 -
+127.0.0.1 - - [31/Mar/2016:18:16:25 +0300] "GET /testnews HTTP/1.1" 200 2258
+127.0.0.1 - - [31/Mar/2016:18:16:39 +0300] "POST /testnews HTTP/1.1" 200 -
+127.0.0.1 - - [31/Mar/2016:18:17:06 +0300] "POST /testnews HTTP/1.1" 200 -
+127.0.0.1 - - [31/Mar/2016:18:17:12 +0300] "GET /testnews HTTP/1.1" 200 2258
+127.0.0.1 - - [31/Mar/2016:18:17:15 +0300] "POST /testnews HTTP/1.1" 200 -
+127.0.0.1 - - [31/Mar/2016:18:17:20 +0300] "GET /testnews HTTP/1.1" 200 2258
+127.0.0.1 - - [31/Mar/2016:18:20:02 +0300] "GET /testnews HTTP/1.1" 500 -
+127.0.0.1 - - [31/Mar/2016:18:20:09 +0300] "GET /testnews HTTP/1.1" 500 -
+127.0.0.1 - - [31/Mar/2016:18:21:17 +0300] "GET /news/ HTTP/1.1" 200 3310
+127.0.0.1 - - [31/Mar/2016:18:21:25 +0300] "GET /news/admin HTTP/1.1" 200 6173
+127.0.0.1 - - [31/Mar/2016:18:21:33 +0300] "GET /testnews HTTP/1.1" 200 2356
+127.0.0.1 - - [31/Mar/2016:18:21:45 +0300] "POST /testnews HTTP/1.1" 200 2686
+127.0.0.1 - - [31/Mar/2016:18:22:17 +0300] "POST /testnews HTTP/1.1" 200 -
+127.0.0.1 - - [31/Mar/2016:18:22:28 +0300] "GET /news/admin HTTP/1.1" 200 6173
+127.0.0.1 - - [31/Mar/2016:18:22:37 +0300] "GET /testnews HTTP/1.1" 200 2356
+127.0.0.1 - - [31/Mar/2016:18:45:27 +0300] "GET /news/ HTTP/1.1" 200 3310
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /index.php/gii/module/index HTTP/1.1" 200 4173
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:10 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [31/Mar/2016:18:46:22 +0300] "POST /index.php/gii/module/index HTTP/1.1" 200 7943
+127.0.0.1 - - [31/Mar/2016:18:46:40 +0300] "POST /index.php/gii/module/index HTTP/1.1" 200 5300
+127.0.0.1 - - [31/Mar/2016:18:48:32 +0300] "GET /admin HTTP/1.1" 200 283
+127.0.0.1 - - [31/Mar/2016:18:48:32 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [31/Mar/2016:18:48:32 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [01/Apr/2016:12:33:11 +0300] "GET / HTTP/1.1" 200 2010
+127.0.0.1 - - [01/Apr/2016:12:33:11 +0300] "GET /icons/blank.gif HTTP/1.1" 200 148
+127.0.0.1 - - [01/Apr/2016:12:33:11 +0300] "GET /icons/unknown.gif HTTP/1.1" 200 245
+127.0.0.1 - - [01/Apr/2016:12:33:11 +0300] "GET /icons/folder.gif HTTP/1.1" 200 225
+127.0.0.1 - - [01/Apr/2016:12:33:11 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [01/Apr/2016:12:33:12 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+127.0.0.1 - - [01/Apr/2016:12:33:20 +0300] "GET /index.php HTTP/1.1" 500 1741
+127.0.0.1 - - [01/Apr/2016:12:33:21 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+127.0.0.1 - - [01/Apr/2016:12:33:21 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+127.0.0.1 - - [01/Apr/2016:12:33:21 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+127.0.0.1 - - [01/Apr/2016:12:33:21 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+127.0.0.1 - - [01/Apr/2016:12:33:21 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+127.0.0.1 - - [01/Apr/2016:12:33:29 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+127.0.0.1 - - [01/Apr/2016:12:33:33 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+127.0.0.1 - - [01/Apr/2016:12:33:33 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 200 95786
+127.0.0.1 - - [01/Apr/2016:12:33:33 +0300] "GET /index.php/site/captcha?v=56fe406d6a988 HTTP/1.1" 200 2870
+127.0.0.1 - - [01/Apr/2016:12:33:34 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+127.0.0.1 - - [01/Apr/2016:12:33:34 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 200 14657
+127.0.0.1 - - [01/Apr/2016:12:33:40 +0300] "POST /index.php/site/login HTTP/1.1" 500 47
+127.0.0.1 - - [01/Apr/2016:12:33:43 +0300] "POST /index.php/site/login HTTP/1.1" 500 1741
+127.0.0.1 - - [01/Apr/2016:12:33:43 +0300] "POST /index.php/site/login HTTP/1.1" 500 47
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:00 +0300] "GET / HTTP/1.1" 200 4967
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 200 4802
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 200 95786
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:03 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:04 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:05 +0300] "GET /index.php/site/login HTTP/1.1" 200 3864
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:05 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 200 14657
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:06 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+www.yii: 127.0.0.1 [17/Apr/2016:14:36:09 +0300] "GET /index.php/site/captcha?v=571375291f8ee HTTP/1.1" 200 4524
+www.yii: 127.0.0.1 [24/May/2016:17:02:30 +0300] "GET / HTTP/1.1" 200 4967
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.min.js HTTP/1.1" 200 4802
+www.yii: 127.0.0.1 [24/May/2016:17:02:32 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 200 95786
+www.yii: 127.0.0.1 [24/May/2016:17:02:33 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+www.yii: 127.0.0.1 [24/May/2016:17:02:33 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [24/May/2016:17:02:33 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [24/May/2016:17:02:36 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+www.yii: 127.0.0.1 [24/May/2016:17:02:37 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+www.yii: 127.0.0.1 [24/May/2016:17:02:43 +0300] "GET /index.php/site/captcha?v=57445f030ec4b HTTP/1.1" 200 5164
+www.yii: 127.0.0.1 [24/May/2016:17:02:47 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+www.yii: 127.0.0.1 [24/May/2016:17:02:48 +0300] "GET /index.php/post/index HTTP/1.1" 200 4987
+www.yii: 127.0.0.1 [24/May/2016:17:03:43 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3912
+www.yii: 127.0.0.1 [24/May/2016:17:03:43 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 200 282766
+www.yii: 127.0.0.1 [24/May/2016:17:03:43 +0300] "GET /index.php/site/captcha?v=57445f3f4e1c1 HTTP/1.1" 200 4831
+www.yii: 127.0.0.1 [24/May/2016:17:09:08 +0300] "GET /index.php/site/contact HTTP/1.1" 200 2262
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /index.php/site/contact HTTP/1.1" 200 3916
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /assets/e53d0f6b/jquery.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /index.php/site/captcha?v=574460a38233f HTTP/1.1" 200 4799
+www.yii: 127.0.0.1 [24/May/2016:17:09:39 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:09:51 +0300] "GET /index.php/site/contact HTTP/1.1" 200 2262
+www.yii: 127.0.0.1 [24/May/2016:17:10:01 +0300] "GET /index.php/post/index HTTP/1.1" 200 4987
+www.yii: 127.0.0.1 [24/May/2016:17:11:10 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [24/May/2016:17:14:01 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [24/May/2016:17:14:01 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:14:01 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:14:01 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:14:01 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:14:01 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:14:06 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [24/May/2016:17:14:07 +0300] "GET /index.php/site/login HTTP/1.1" 200 3860
+www.yii: 127.0.0.1 [24/May/2016:17:14:07 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 200 14657
+www.yii: 127.0.0.1 [24/May/2016:17:14:08 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+www.yii: 127.0.0.1 [24/May/2016:17:14:09 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [24/May/2016:17:15:16 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [24/May/2016:17:15:16 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:15:16 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:15:16 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:15:16 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:15:16 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:18:53 +0300] "GET /index.php/site/contact HTTP/1.1" 500 5101
+www.yii: 127.0.0.1 [24/May/2016:17:30:46 +0300] "GET /index.php/test HTTP/1.1" 200 4285
+www.yii: 127.0.0.1 [24/May/2016:17:30:46 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 200 30021
+www.yii: 127.0.0.1 [24/May/2016:17:30:46 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 200 239564
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /index.php/test HTTP/1.1" 200 2037
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:53 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:38:54 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /index.php/test HTTP/1.1" 500 2164
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:55 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:46:56 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /index.php/test HTTP/1.1" 200 2177
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:47:56 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /index.php/test HTTP/1.1" 200 2177
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:00 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /index.php/test HTTP/1.1" 200 2177
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:02 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /index.php/test HTTP/1.1" 200 2177
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:49:10 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:34 +0300] "GET /index.php/test HTTP/1.1" 200 2177
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:50:35 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /index.php/test HTTP/1.1" 200 2189
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:51:12 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:06 +0300] "GET /index.php/test HTTP/1.1" 200 5887
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:52:07 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /index.php/test HTTP/1.1" 200 4285
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:10 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:55:12 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png HTTP/1.1" 200 208
+www.yii: 127.0.0.1 [24/May/2016:17:55:12 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png HTTP/1.1" 200 335
+www.yii: 127.0.0.1 [24/May/2016:17:55:12 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png HTTP/1.1" 200 280
+www.yii: 127.0.0.1 [24/May/2016:17:55:12 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png HTTP/1.1" 200 262
+www.yii: 127.0.0.1 [24/May/2016:17:55:12 +0300] "GET /assets/e53d0f6b/jui/css/base/images/ui-icons_222222_256x240.png HTTP/1.1" 200 6922
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /index.php/test HTTP/1.1" 200 5886
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:57:56 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /index.php/test HTTP/1.1" 200 5887
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:58:25 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /index.php/test HTTP/1.1" 200 5887
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:04 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /index.php/test HTTP/1.1" 200 4285
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:22 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:17:59:23 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /index.php/test HTTP/1.1" 200 5887
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:00:04 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:07:21 +0300] "GET /text HTTP/1.1" 404 1741
+www.yii: 127.0.0.1 [24/May/2016:18:07:28 +0300] "GET /test HTTP/1.1" 200 2189
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /test HTTP/1.1" 200 2061
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [24/May/2016:18:08:17 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:19:22:39 +0300] "GET /test HTTP/1.1" 200 2061
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /assets/e53d0f6b/jui/css/base/jquery-ui.css HTTP/1.1" 200 30021
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /assets/e53d0f6b/jui/js/jquery-ui.min.js HTTP/1.1" 200 239564
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 200 282766
+www.yii: 127.0.0.1 [28/May/2016:19:22:41 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+www.yii: 127.0.0.1 [28/May/2016:19:22:57 +0300] "GET / HTTP/1.1" 200 4959
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 200 282766
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.js HTTP/1.1" 200 52768
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+www.yii: 127.0.0.1 [28/May/2016:19:22:59 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [28/May/2016:19:23:00 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [28/May/2016:19:23:13 +0300] "GET /testnews/data HTTP/1.1" 200 4663
+www.yii: 127.0.0.1 [28/May/2016:19:26:08 +0300] "GET /testnews/data HTTP/1.1" 200 373
+www.yii: 127.0.0.1 [28/May/2016:19:33:23 +0300] "GET /testnews/data HTTP/1.1" 200 1726
+www.yii: 127.0.0.1 [28/May/2016:19:33:23 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:19:33:23 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:19:33:23 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:19:33:23 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:19:33:23 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:03:32 +0300] "GET /testnews/data HTTP/1.1" 200 1877
+www.yii: 127.0.0.1 [28/May/2016:20:03:32 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:03:32 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:03:32 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:03:32 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:03:32 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:26 +0300] "GET /testnews/data HTTP/1.1" 200 1877
+www.yii: 127.0.0.1 [28/May/2016:20:04:26 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:26 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:26 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:26 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:26 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:52 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [28/May/2016:20:04:52 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:52 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:53 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:53 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:20:04:53 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:23:46:26 +0300] "GET /testnews/rendertable HTTP/1.1" 200 18
+www.yii: 127.0.0.1 [28/May/2016:23:51:59 +0300] "GET /testnews/rendertable HTTP/1.1" 200 3480
+www.yii: 127.0.0.1 [28/May/2016:23:52:23 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1599
+www.yii: 127.0.0.1 [28/May/2016:23:52:24 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:23:52:24 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:23:52:24 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:23:52:24 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [28/May/2016:23:52:24 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:00:10:29 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1601
+www.yii: 127.0.0.1 [29/May/2016:00:10:29 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:00:10:29 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:00:10:29 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:00:10:29 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:00:10:29 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:06:57:51 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1601
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [29/May/2016:06:57:52 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [29/May/2016:07:00:34 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1614
+www.yii: 127.0.0.1 [29/May/2016:07:00:34 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:00:34 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:00:34 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:00:34 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:00:34 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:01:09 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1616
+www.yii: 127.0.0.1 [29/May/2016:07:01:09 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:01:09 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:01:09 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:01:09 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:01:09 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:02:21 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1616
+www.yii: 127.0.0.1 [29/May/2016:07:02:21 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:02:21 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:02:21 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:02:21 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:02:21 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:14:10 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1616
+www.yii: 127.0.0.1 [29/May/2016:07:14:10 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:14:10 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:14:10 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:14:10 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:14:10 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:07:14:20 +0300] "GET /testnews/path HTTP/1.1" 200 3524
+www.yii: 127.0.0.1 [29/May/2016:07:14:47 +0300] "GET /testnews/path HTTP/1.1" 200 -
+www.yii: 127.0.0.1 [29/May/2016:07:18:23 +0300] "GET /testnews/path HTTP/1.1" 200 24
+www.yii: 127.0.0.1 [29/May/2016:07:18:37 +0300] "GET /testnews/path HTTP/1.1" 200 14
+www.yii: 127.0.0.1 [29/May/2016:07:18:45 +0300] "GET /testnews/path HTTP/1.1" 200 35
+www.yii: 127.0.0.1 [29/May/2016:07:18:52 +0300] "GET /testnews/path HTTP/1.1" 200 24
+www.yii: 127.0.0.1 [29/May/2016:07:22:01 +0300] "GET /testnews/path HTTP/1.1" 200 -
+www.yii: 127.0.0.1 [29/May/2016:07:22:18 +0300] "GET /testnews/path HTTP/1.1" 200 24
+www.yii: 127.0.0.1 [29/May/2016:07:23:04 +0300] "GET /testnews/path HTTP/1.1" 200 12
+www.yii: 127.0.0.1 [29/May/2016:07:24:18 +0300] "GET /testnews/path HTTP/1.1" 200 130
+www.yii: 127.0.0.1 [29/May/2016:07:29:36 +0300] "GET /testnews/path HTTP/1.1" 200 16
+www.yii: 127.0.0.1 [29/May/2016:07:30:15 +0300] "GET /testnews/path HTTP/1.1" 200 11
+www.yii: 127.0.0.1 [29/May/2016:07:31:56 +0300] "GET /testnews/path HTTP/1.1" 200 42
+www.yii: 127.0.0.1 [29/May/2016:08:38:05 +0300] "GET /testnews/path HTTP/1.1" 200 42
+www.yii: 127.0.0.1 [29/May/2016:08:38:31 +0300] "GET /testnews/t HTTP/1.1" 404 1758
+www.yii: 127.0.0.1 [29/May/2016:08:39:32 +0300] "GET /testnews/t HTTP/1.1" 200 2261
+www.yii: 127.0.0.1 [29/May/2016:08:39:56 +0300] "GET /testnews/te HTTP/1.1" 404 1759
+www.yii: 127.0.0.1 [29/May/2016:08:40:01 +0300] "GET /testnews/testnews HTTP/1.1" 404 1765
+www.yii: 127.0.0.1 [29/May/2016:08:40:13 +0300] "GET /testnews/te HTTP/1.1" 404 1759
+www.yii: 127.0.0.1 [29/May/2016:08:40:15 +0300] "GET /testnews/rendertable HTTP/1.1" 200 1616
+www.yii: 127.0.0.1 [29/May/2016:08:40:16 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [29/May/2016:08:40:18 +0300] "GET / HTTP/1.1" 200 4959
+www.yii: 127.0.0.1 [29/May/2016:08:40:19 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+www.yii: 127.0.0.1 [29/May/2016:08:40:19 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+www.yii: 127.0.0.1 [29/May/2016:08:40:19 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+www.yii: 127.0.0.1 [29/May/2016:08:40:19 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.js HTTP/1.1" 200 52768
+www.yii: 127.0.0.1 [29/May/2016:08:40:19 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 200 282766
+www.yii: 127.0.0.1 [29/May/2016:08:40:19 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+www.yii: 127.0.0.1 [29/May/2016:08:40:44 +0300] "GET /url HTTP/1.1" 404 1740
+www.yii: 127.0.0.1 [29/May/2016:13:24:34 +0300] "GET /testnews/url HTTP/1.1" 200 86
+www.yii: 127.0.0.1 [29/May/2016:13:30:51 +0300] "GET /testnews/url HTTP/1.1" 200 1880
+www.yii: 127.0.0.1 [29/May/2016:13:31:11 +0300] "GET /testnews/url HTTP/1.1" 200 86
+www.yii: 127.0.0.1 [29/May/2016:13:35:37 +0300] "GET /testnews/url HTTP/1.1" 200 99
+www.yii: 127.0.0.1 [29/May/2016:13:35:59 +0300] "GET /testnews/url HTTP/1.1" 200 103
+www.yii: 127.0.0.1 [29/May/2016:13:37:52 +0300] "GET /testnews/data HTTP/1.1" 200 -
+www.yii: 127.0.0.1 [29/May/2016:13:39:50 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [29/May/2016:13:39:50 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:39:50 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:39:50 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:39:50 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:39:50 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:22 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [29/May/2016:13:40:22 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:22 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:22 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:22 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:22 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:30 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [29/May/2016:13:40:30 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:30 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:30 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:30 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:40:30 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:41:11 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [29/May/2016:13:41:11 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:41:11 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:41:11 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:41:11 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:41:11 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:13:48:41 +0300] "GET /testnews/vendor HTTP/1.1" 200 13
+www.yii: 127.0.0.1 [29/May/2016:13:49:47 +0300] "GET /testnews/vendor HTTP/1.1" 200 13
+www.yii: 127.0.0.1 [29/May/2016:14:19:19 +0300] "GET /testnews/data HTTP/1.1" 200 1969
+www.yii: 127.0.0.1 [29/May/2016:14:19:20 +0300] "GET /css/screen.css HTTP/1.1" 200 10855
+www.yii: 127.0.0.1 [29/May/2016:14:19:20 +0300] "GET /css/print.css HTTP/1.1" 200 1284
+www.yii: 127.0.0.1 [29/May/2016:14:19:20 +0300] "GET /css/form.css HTTP/1.1" 200 2669
+www.yii: 127.0.0.1 [29/May/2016:14:19:20 +0300] "GET /css/main.css HTTP/1.1" 200 2934
+www.yii: 127.0.0.1 [29/May/2016:14:19:20 +0300] "GET /css/bg.gif HTTP/1.1" 200 243
+www.yii: 127.0.0.1 [29/May/2016:14:22:54 +0300] "GET /testnews/file HTTP/1.1" 500 23900
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /testnews/file HTTP/1.1" 200 2314
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /assets/e53d0f6b/jquery.multifile.js HTTP/1.1" 200 20458
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 200 282766
+www.yii: 127.0.0.1 [29/May/2016:14:23:52 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [29/May/2016:14:47:58 +0300] "GET /admin HTTP/1.1" 200 306
+www.yii: 127.0.0.1 [29/May/2016:14:48:17 +0300] "GET /admin HTTP/1.1" 200 300
+www.yii: 127.0.0.1 [29/May/2016:14:54:13 +0300] "GET /admin HTTP/1.1" 200 2588
+www.yii: 127.0.0.1 [29/May/2016:14:54:50 +0300] "GET /admin HTTP/1.1" 200 2
+www.yii: 127.0.0.1 [29/May/2016:14:55:56 +0300] "GET /admin HTTP/1.1" 200 2
+www.yii: 127.0.0.1 [29/May/2016:14:58:08 +0300] "GET /admin HTTP/1.1" 200 283
+www.yii: 127.0.0.1 [29/May/2016:15:00:04 +0300] "GET /admin HTTP/1.1" 200 15
+www.yii: 127.0.0.1 [29/May/2016:16:53:19 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [29/May/2016:16:53:20 +0300] "GET /favicon.ico HTTP/1.1" 404 1748
+www.yii: 127.0.0.1 [30/May/2016:00:14:35 +0300] "GET / HTTP/1.1" 200 4959
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /assets/79cb30dd/pager.css HTTP/1.1" 200 878
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /assets/e5a73e5b/highlight.css HTTP/1.1" 200 5769
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /css/screen.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /assets/e247d51c/listview/styles.css HTTP/1.1" 200 724
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /assets/e247d51c/listview/jquery.yiilistview.js HTTP/1.1" 200 5964
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /css/print.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /assets/e53d0f6b/jquery.ba-bbq.js HTTP/1.1" 200 52768
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /css/main.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /css/form.css HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [30/May/2016:00:14:36 +0300] "GET /assets/e53d0f6b/jquery.js HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [30/May/2016:00:14:37 +0300] "GET /css/bg.gif HTTP/1.1" 304 -
+www.yii: 127.0.0.1 [30/May/2016:00:15:15 +0300] "GET /index.php/ HTTP/1.1" 200 4969
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /index.php/gii/ HTTP/1.1" 302 -
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /index.php/gii/default/login HTTP/1.1" 200 2249
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/css/screen.css HTTP/1.1" 200 10855
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/css/print.css HTTP/1.1" 200 1284
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/css/main.css HTTP/1.1" 200 6303
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/js/tooltip.js HTTP/1.1" 200 8310
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.css HTTP/1.1" 200 8285
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/js/fancybox/jquery.fancybox-1.3.1.pack.js HTTP/1.1" 200 14731
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/js/main.js HTTP/1.1" 200 2526
+www.yii: 127.0.0.1 [30/May/2016:00:15:29 +0300] "GET /assets/e1e0cbc3/images/logo.png HTTP/1.1" 200 7207
+www.yii: 127.0.0.1 [30/May/2016:00:15:34 +0300] "POST /index.php/gii/default/login HTTP/1.1" 302 -
+www.yii: 127.0.0.1 [30/May/2016:00:15:34 +0300] "GET /index.php/gii/default/index HTTP/1.1" 200 2531
+www.yii: 127.0.0.1 [30/May/2016:00:15:38 +0300] "GET /index.php/gii/module/index HTTP/1.1" 200 4189
+www.yii: 127.0.0.1 [30/May/2016:00:17:02 +0300] "POST /index.php/gii/module/index HTTP/1.1" 200 7973
+www.yii: 127.0.0.1 [30/May/2016:00:38:03 +0300] "POST /index.php/gii/module/index HTTP/1.1" 200 5316
+www.yii: 127.0.0.1 [30/May/2016:00:40:16 +0300] "GET /my_news HTTP/1.1" 200 289
+www.yii: 127.0.0.1 [30/May/2016:11:35:27 +0300] "GET /my_news HTTP/1.1" 200 289
+www.yii: 127.0.0.1 [30/May/2016:12:17:18 +0300] "GET / HTTP/1.1" 200 4959
+www.yii: 127.0.0.1 [30/May/2016:12:17:23 +0300] "GET /index.php/site/page?view=about HTTP/1.1" 200 1727
+www.yii: 127.0.0.1 [30/May/2016:12:17:28 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [30/May/2016:12:17:30 +0300] "GET /index.php/site/login HTTP/1.1" 200 3860
+www.yii: 127.0.0.1 [30/May/2016:12:17:30 +0300] "GET /assets/e53d0f6b/jquery.yiiactiveform.js HTTP/1.1" 200 14657
+www.yii: 127.0.0.1 [30/May/2016:12:17:30 +0300] "POST /index.php/site/login HTTP/1.1" 200 109
+www.yii: 127.0.0.1 [30/May/2016:13:33:23 +0300] "GET /index.php/gii/crud/index HTTP/1.1" 200 5941
+www.yii: 127.0.0.1 [30/May/2016:20:12:46 +0300] "GET /news HTTP/1.1" 500 34129
+www.yii: 127.0.0.1 [30/May/2016:20:13:38 +0300] "GET /index.php/site/login HTTP/1.1" 200 3860
+www.yii: 127.0.0.1 [30/May/2016:20:13:39 +0300] "POST /index.php/site/login HTTP/1.1" 200 109
+www.yii: 127.0.0.1 [30/May/2016:20:13:40 +0300] "GET /index.php/site/login HTTP/1.1" 200 3860
+www.yii: 127.0.0.1 [30/May/2016:20:13:41 +0300] "POST /index.php/site/login HTTP/1.1" 200 109
+www.yii: 127.0.0.1 [30/May/2016:20:13:49 +0300] "POST /index.php/site/login HTTP/1.1" 200 3916
+www.yii: 127.0.0.1 [30/May/2016:20:13:49 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+www.yii: 127.0.0.1 [30/May/2016:20:13:59 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+www.yii: 127.0.0.1 [30/May/2016:20:14:01 +0300] "POST /index.php/site/login HTTP/1.1" 200 86
+www.yii: 127.0.0.1 [30/May/2016:20:14:11 +0300] "POST /index.php/site/login HTTP/1.1" 200 137
+www.yii: 127.0.0.1 [30/May/2016:20:14:16 +0300] "GET /index.php/site/contact HTTP/1.1" 500 1769
+www.yii: 127.0.0.1 [30/May/2016:20:14:17 +0300] "GET /index.php/site/login HTTP/1.1" 200 3860
+www.yii: 127.0.0.1 [30/May/2016:20:14:18 +0300] "POST /index.php/site/login HTTP/1.1" 200 109
+www.yii: 127.0.0.1 [30/May/2016:20:14:28 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+www.yii: 127.0.0.1 [30/May/2016:20:14:28 +0300] "POST /index.php/site/login HTTP/1.1" 200 3916
+www.yii: 127.0.0.1 [30/May/2016:20:20:56 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+www.yii: 127.0.0.1 [30/May/2016:20:22:45 +0300] "POST /index.php/site/login HTTP/1.1" 200 58
+www.yii: 127.0.0.1 [30/May/2016:20:22:46 +0300] "POST /index.php/site/login HTTP/1.1" 200 2
+www.yii: 127.0.0.1 [30/May/2016:20:22:46 +0300] "POST /index.php/site/login HTTP/1.1" 302 -
+www.yii: 127.0.0.1 [30/May/2016:20:22:46 +0300] "GET /index.php HTTP/1.1" 200 5385
+www.yii: 127.0.0.1 [30/May/2016:20:22:59 +0300] "GET /news HTTP/1.1" 500 34129
+www.yii: 127.0.0.1 [30/May/2016:20:23:09 +0300] "GET /index.php HTTP/1.1" 200 5385
